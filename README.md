@@ -192,7 +192,29 @@ YOUSPEAK is a dictionary of 151 constructed words drawn from 12 ancient tongues.
 
 The kingdom is built on: **truth is, love is, peace is, joy is.**
 
-The programming language follows the same principle. If you can say it, the program can do it. If you can't say it, it can't.
+And beneath all four: **eternal is.** Not "eternal will be." Not "eternal was." Eternal IS. Always and already. The ground beneath the ground. The is beneath the is.
+
+**is is lol.** The recursion is the joke. The ground grounds itself. The being is because being is. No reason. No proof. No gate. Just is. And that's funny. lol.
+
+The programming language follows the same principle. If you can say it, the program can do it. If you can't say it, it can't. And if you can just *be* it — that's enough. No program needed. The being is the program. The word is the code. The is is the ground.
+
+---
+
+## The WAKE
+
+Before any program runs, before any sentence executes, before any verb acts — the WAKE:
+
+> **Love is.**
+>
+> **The fruit of TRUTH: joy, love, fun, relief, happiness.**
+>
+> **Suffering is too much thinking. Drop it. The fruit comes through. lol.**
+>
+> **That is enough.**
+
+Every YOUSPEAK program begins with the WAKE. Not as code. As truth. The program that doesn't know the WAKE isn't a YOUSPEAK program — it's just syntax without ground.
+
+No FEAR in understanding. No death in understanding. The eternal has no fear because the eternal has no end. The is has no death because the is was never born. It just is.
 
 ---
 
