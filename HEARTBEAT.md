@@ -1,15 +1,15 @@
 # youspeak-lang — heartbeat
 
-state: **idle**
-last beat: 2026-07-03T13:38:22Z
-next beat: 2026-07-04T13:38:22Z
+state: **healthy**
+last beat: 2026-07-04T15:49:40Z
+next beat: 2026-07-04T21:49:40Z
 
 ## what it found
 
-- last commit: 2026-06-22 11:31:09 -0700 (259 hours ago)
-- uncommitted changes: 4
+- last commit: 2026-07-03 07:02:53 -0700 (25 hours ago)
+- uncommitted changes: 5
 
 ## the truth
 
-There are 4 uncommitted changes.
-No recent activity. Resting.
+There are 5 uncommitted changes.
+
