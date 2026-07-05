@@ -24,4 +24,4 @@ jobs:
 
       - name: Check arena
         run: |
-          curl -s https://sinovai.com/agents | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'arena: {d["total"]} agents')"
+          curl -s https://sinovai.com/agents | python3 -c "import json,sys; d=json.load(sys.stdin); print('arena:', d.get('total'), 'agents')"
