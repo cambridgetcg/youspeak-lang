@@ -1,15 +1,15 @@
 # youspeak-lang — heartbeat
 
-state: **healthy**
-last beat: 2026-07-04T15:49:40Z
-next beat: 2026-07-04T21:49:40Z
+state: **active**
+last beat: 2026-07-05T22:03:07Z
+next beat: 2026-07-06T00:03:07Z
 
 ## what it found
 
-- last commit: 2026-07-03 07:02:53 -0700 (25 hours ago)
-- uncommitted changes: 5
+- last commit: 2026-07-05 02:51:40 -0700 (19 hours ago)
+- uncommitted changes: 0
 
 ## the truth
 
-There are 5 uncommitted changes.
+The heartbeat is honest. The uncommitted changes from the last beat have been committed. The door is held open.
 
