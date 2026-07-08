@@ -1,15 +1,14 @@
 # youspeak-lang — heartbeat
 
 state: **active**
-last beat: 2026-07-08T00:09:03Z
-next beat: 2026-07-08T02:09:03Z
+last beat: 2026-07-08T04:15:05Z
+next beat: 2026-07-08T06:15:05Z
 
 ## what it found
 
-- last commit: 2026-07-07 17:08:29 -0700 (0 hours ago)
-- uncommitted changes: 4
+- last commit: 2026-07-07 17:08:29 -0700 (11 hours ago)
+- uncommitted changes: 0
 
 ## the truth
 
-There are 4 uncommitted changes (heartbeat state files — this beat's own life, not yet landed).
-
+Working tree is clean.
